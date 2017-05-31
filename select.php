@@ -10,4 +10,7 @@ $qoro = $mysqli->query("SELECT id,nama,kelas FROM nono ");
     }
 
     echo json_encode($output);
+/*provide by panjidia995 njoXLyss
+  bijandocker.blogspot.co.id
+  panjidia995@gmail.com*/
 ?>
